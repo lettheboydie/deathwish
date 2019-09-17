@@ -1,0 +1,16 @@
+header{
+	margin:auto;
+	background-image: url(../img/1.jpg);
+    background-position: center;
+    background-size:cover;
+	color:white;
+	font-family:Montserrat;
+}
+
+.flex1{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	padding: 5% 20%;
+	color:white;
+}
