@@ -19,3 +19,9 @@ header{
 	font-size:20px;
 	margin-right:10px;
 }
+
+.flex2{
+	display:flex;
+	justify-content:center;
+	align items:flex-start;
+}
