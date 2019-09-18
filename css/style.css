@@ -25,3 +25,7 @@ header{
 	justify-content:center;
 	align-items:flex-start;
 }
+
+.about{
+	padding:5% 20%;
+}
