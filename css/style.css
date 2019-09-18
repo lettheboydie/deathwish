@@ -16,5 +16,6 @@ header{
 }
 
 .header-icons{
-	width:50;
+	width:100px;
+	margin-right:30px;
 }
