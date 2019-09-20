@@ -27,7 +27,7 @@ header{
 }
 
 .about{
-	margin:30px
+	margin:0px 30px;
 	padding:5% 20%;
 	font-family:Montserrat;
 	box-shadow:-1px -1px 44px 0 #A9A9A9;
