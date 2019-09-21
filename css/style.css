@@ -51,6 +51,7 @@ footer{
 }
 
 .contact{	
+	padding:5% 20%;
 	display:flex;
 	justify-content:flex-start;
 	align-items:flex-start;
