@@ -42,8 +42,8 @@ header{
 }
 
 footer{
-background-color:purple;	
-font-family:Montserrat;
+	background-color:purple;	
+	font-family:Montserrat;
 }
 
 .contact{	
@@ -52,4 +52,5 @@ font-family:Montserrat;
 	align-items:flex-start;
 	flex-direction:column;
 	box-sizing:border-box;
+	width:100%
 }
