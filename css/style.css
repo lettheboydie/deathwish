@@ -43,11 +43,13 @@ header{
 
 footer{
 background-color:purple;	
+font-family:Montserrat;
 }
 
 .contact{	
 	display:flex;
 	justify-content:flex-start;
 	align-items:flex-start;
+	flex-direction:column;
 	box-sizing:border-box;
 }
