@@ -1,3 +1,7 @@
+body{
+	border-top: 20px solid #5C2686;
+}
+
 header{
 	margin:auto;
 	background-image: url(../img/1.jpg);
