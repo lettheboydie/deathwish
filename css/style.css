@@ -43,6 +43,7 @@ header{
 .content{
  	padding:5% 20%;
         font-family:Montserrat;
+	list-style-type: katakana;
 }
 
 footer{
