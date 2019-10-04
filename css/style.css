@@ -41,7 +41,10 @@ box-shadow : -1px -1px 44px 0 #A9A9A9;
 .content {
 padding : 5% 20%;
 font-family : Montserrat;
-list-style-type : katakana;
+}
+
+ol.l {
+  list-style-type: katakana;
 }
 
 a:link {
