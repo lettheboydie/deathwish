@@ -44,6 +44,13 @@ box-shadow : -1px -1px 44px 0 #A9A9A9;
   
 }
 
+.about p{
+  color:#777;
+  text-transform: lowercase;
+  text-decoration: overline;
+  font-style: italic;
+}
+
 
 .content {
 padding : 5% 20%;
