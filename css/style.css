@@ -55,8 +55,8 @@ a:hover{
 	color:pink;
 }
 
-a:visited:
-color:#fce300;
+a:visited{
+color: #fce300;
 }
 
 footer{
