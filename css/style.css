@@ -44,6 +44,19 @@ header{
  	padding:5% 20%;
         font-family:Montserrat;
 	list-style-type: katakana;
+	
+}
+
+a:link {
+  color: purple;
+}
+
+a:hover{
+	color:pink;
+}
+
+a:visited:
+color:#fce300;
 }
 
 footer{
