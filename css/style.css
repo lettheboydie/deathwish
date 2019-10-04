@@ -44,6 +44,11 @@ box-shadow : -1px -1px 44px 0 #A9A9A9;
   
 }
 
+.remove{
+  text-decoration:none;
+  color:black;
+}
+
 .about p{
   color:#777;
   text-transform: lowercase;
