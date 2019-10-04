@@ -1,75 +1,71 @@
-body{
-	border-top: 20px solid #5C2686;
+body {
+border-top : 20px solid #5C2686;
 }
 
-header{
-	margin:auto;
-	background-image: url(../img/1.jpg);
-    background-position: center;
-    background-size:cover;
-	color:white;
-	font-family:Montserrat;
+header {
+margin : auto;
+background-image : url(../img/1.jpg);
+background-position : center;
+background-size : cover;
+color : white;
+font-family : Montserrat;
 }
 
-.flex1{
-	display:flex;
-	justify-content:center;
-	align-items: center;
-	padding: 5% 20%;
-	color:white;
+.flex1 {
+display : flex;
+justify-content : center;
+align-items : center;
+padding : 5% 20%;
+color : white;
 }
 
-.header-icons a{
-	font-size:20px;
-	margin-right:10px;
+.header-icons a {
+font-size : 20px;
+margin-right : 10px;
 }
 
-.flex2{
-	display:flex;
-	justify-content:center;
-	align-items:flex-start;
+.flex2 {
+display : flex;
+justify-content : center;
+align-items : flex-start;
 }
 
-.about{
-	margin:0px 70px;
-	margin-top:20px;
-	padding:5% 20%;
-	font-family:Montserrat;
-	box-shadow:-1px -1px 44px 0 #A9A9A9;
-	text-allign:center;
-	
+.about {
+margin : 0 70px;
+margin-top : 20px;
+padding : 5% 20%;
+font-family : Montserrat;
+box-shadow : -1px -1px 44px 0 #A9A9A9;
 }
 
-.content{
- 	padding:5% 20%;
-        font-family:Montserrat;
-	list-style-type: katakana;
-	
+.content {
+padding : 5% 20%;
+font-family : Montserrat;
+list-style-type : katakana;
 }
 
 a:link {
-  color: purple;
+color : purple;
 }
 
-a:hover{
-	color:pink;
+a:hover {
+color : pink;
 }
 
-a:visited{
-color: #fce300;
+a:visited {
+color : #fce300;
 }
 
-footer{
-	background-color:purple;	
-	font-family:Montserrat;
+footer {
+background-color : purple;
+font-family : Montserrat;
 }
 
-.contact{	
-	padding:5% 20%;
-	display:flex;
-	justify-content:flex-start;
-	align-items:flex-start;
-	flex-direction:column;
-	box-sizing:border-box;
-	width:100%;
-}
+.contact {
+padding : 5% 20%;
+display : flex;
+justify-content : flex-start;
+align-items : flex-start;
+flex-direction : column;
+box-sizing : border-box;
+width : 100%;
