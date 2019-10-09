@@ -33,6 +33,7 @@ align-items : flex-start;
 .about {
 margin : 0 70px;
 margin-top : 20px;
+margin-bottom: 20px;
 padding : 5% 20%;
 font-family : Montserrat;
 box-shadow : -1px -1px 44px 0 #A9A9A9;
