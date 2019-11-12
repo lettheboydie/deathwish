@@ -93,3 +93,8 @@ flex-direction : column;
 box-sizing : border-box;
 width : 100%;
 }
+
+rotate{
+  -webkit-transform: rotateY(150deg); 
+  transform: rotateY(150deg);
+}
